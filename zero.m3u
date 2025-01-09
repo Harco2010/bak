@@ -1,0 +1,63 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
+http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",.sci-fi
+https://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Киносемья
+http://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8
+
+
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",ОНТ
+http://178.124.183.150/hls/NCLEFHVZGR_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",ОНТ HD
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",СТВ
+http://178.124.183.150/hls/RZEQ3BLSTY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",РТР Беларусь
+http://178.124.183.150/hls/7MQSYYGHFE_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",РТР Беларусь HD
+https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",НТВ Беларусь HD
+https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="ZALA-БЕЛАРУСЬ",Пинск ТВ
+https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8?version=2
+
+
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Рыбалка и охота
+http://mfe.svc.ott.zala.by/hls/CH_RYBALKAIOHOTA_HLS/variant.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
+
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Первый информационный
+http://mfe.svc.ott.zala.by/hls/CH_1INFORM_HLS/variant.m3u8
+
+
